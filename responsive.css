@@ -1,0 +1,23 @@
+@media (max-width:1030px){
+
+}
+
+@media (max-width:991px){
+
+}
+
+@media (max-width:767px){
+    h1{
+        font-size: 2rem;
+    }
+    h2{
+       font-size: 1.3rem;
+    }
+    p{
+        font-size: 0.8rem;
+    }
+
+    .btn1 button{
+      font-size: 0.7rem;
+    }
+}
